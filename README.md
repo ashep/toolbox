@@ -8,7 +8,7 @@ Simple tool organizer.
 
 ## How To Use
 
-- Open the [3mf model](3mf/toolbox.3mf) in your favorite slicer.
+- Open the [3mf](3mf/toolbox.3mf) or [stl](stl/toolbox.stl) model in your favorite slicer.
 - Prepare model for printing.
 - Slice and print.
 
