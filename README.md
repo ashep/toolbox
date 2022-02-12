@@ -1,4 +1,4 @@
-# SMD Component Storage
+# Tool Organizer
 
 ![Tool organizer](img/build/01.jpg)
 
